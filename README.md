@@ -12,3 +12,5 @@ Soy Larisa, soy compañera de clases de Jorge, en la  MCD, estaremos trabando la
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
+
+La sección de Referencias de este repositorio las encontrarás en [este link](PONER_LINK_DE_ARCHIVO_REFERENCIAS_SECCION_4_DE_ESTA_ACTIVIDAD).
